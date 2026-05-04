@@ -1,2 +1,15 @@
-# python-basic-api
-Simple REST API built using Flask with basic routes
+# Basic Flask API
+
+This is my first API project using Flask.
+
+## Features
+- View tasks
+- Add task
+- Delete task
+- Simple REST API
+
+## How to Run
+
+```bash
+pip install flask
+python app.py
